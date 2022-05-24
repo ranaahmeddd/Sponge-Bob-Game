@@ -1,2 +1,2 @@
-#Sponge Bob Game
+#Sponge-Bob-Game
 2D Intertainment Game Using Felgo
