@@ -1,1 +1,1 @@
-A 2D Intertainment Game Using Felgo
+2D Intertainment Game Using Felgo
